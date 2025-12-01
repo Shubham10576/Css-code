@@ -5,6 +5,16 @@ P{
     color: rgb(255, 127, 127);
 }
 body { 
-    background-color:#ffff00;
+    background-color:#00ffd5;
+
+ }
+#headingone {
+    color: #ffff00;
+}
+#headingtwo {
+    color: #00ffd5;
+} 
+.myClass {
+    color: black;
 
 }
