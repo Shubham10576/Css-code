@@ -1,8 +1,16 @@
 
 
-div {
+/* div {
     height: 120px;
     width: 100px;
     background-color: purple;
     border-width: 3px;
+    border-style: solid;
+    border-color: rgb(104, 205, 50);
+} */
+    
+div { 
+    border:2px solid brown
+
 }
+    
