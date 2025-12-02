@@ -20,8 +20,10 @@ a {
     font-weight: lighter;
 }
 #one {
-    ;font-size :28px;
+    font-size :28px;
+    line-height:25px;
+    text-transform: none;
 }
 #two {
-    font-family: Courier ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 }
