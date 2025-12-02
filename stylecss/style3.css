@@ -1,10 +1,8 @@
 
 
-*{
-    font-family: Times New Roman;
-}
-#one {
-    text-align: center;
-    text-transform: capitalize;
-
+div {
+    height: 120px;
+    width: 100px;
+    background-color: purple;
+    border-width: 3px;
 }
