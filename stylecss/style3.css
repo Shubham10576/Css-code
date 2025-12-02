@@ -1,6 +1,5 @@
-p{ 
-    text-align: right;
-}
+
+
 h1 {
     text-align: center;
 
@@ -21,7 +20,7 @@ a {
     font-weight: lighter;
 }
 #one {
-    font-family: Arial;
+    ;font-size :28px;
 }
 #two {
     font-family: Courier ;
