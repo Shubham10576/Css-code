@@ -1,29 +1,35 @@
 
-body {
-    background-color: blue;
+/* body {
+    background-color: rgb(86, 86, 242);
 }
- div {
-    background-color: black;
-    border: 20px;
-    border-style: white;
-    
- }
+*{
+    padding: 0;
+    margin:0;
+    color:white
+}
  #one {
-    color: orange;
-    
- }
- #two {
-    color: white;
- }
- #three {
-    background-color: whitesmoke;
- }
- #four {
-    background-color: #f08804;
-    color: white;
+    height: 60px;
+    background-color: black;
+    border-color: white;
 
  }
+ button {
+    background-color:#f08804;
+} 
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+a {
+    margin-right:200px;
+    text-decoration:none;
+}
  
+  */
+  div {
+    background-color: pink;
+    display: inline;
+  }
 
  
 
